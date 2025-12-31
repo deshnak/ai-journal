@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -205,3 +206,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Ignore your journal data file so you don't push personal entries
+memory.json
+>>>>>>> cec8795 (Initial commit: Terminal based, AI journal with productivity judge.)
